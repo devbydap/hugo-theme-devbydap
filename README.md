@@ -1,4 +1,4 @@
-![image](banner.png)
+![image](images/banner.png)
 
 # Hugo Theme devbydap
 
