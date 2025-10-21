@@ -1,4 +1,4 @@
-![image](https://drive.google.com/file/d/1eHj-g__zOv2rxkZeUVc0c2-UfeYXeGTC/view?usp=drive_link)
+![image](banner.png)
 
 # Hugo Theme devbydap
 
